@@ -1,8 +1,8 @@
 
-name: PALANTIR PROJECT BLOG
+name: OPEN FARM PROJECT
 baseurl: /PalantirBlog
 
-avatar: ./images/logo-palantir.png
+avatar: ./images/Agri.png
 
 permalink: /:title/
 
