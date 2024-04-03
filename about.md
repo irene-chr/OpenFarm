@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Christina Sinopli
+Website Admin: Irene Chrysostomides
 
 ### Contact me
 
-[email@domain.com](csinopli@gmail.com)
+[Irene_Chr@yahoo.gr](Irene_Chr@yahoo.gr)
