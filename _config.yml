@@ -2,7 +2,7 @@
 name: OPEN FARM PROJECT
 baseurl: /PalantirBlog
 
-avatar: ./images/Agri.png
+avatar: ./images/agri.png
 
 permalink: /:title/
 
